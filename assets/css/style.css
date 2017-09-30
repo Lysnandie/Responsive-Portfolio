@@ -243,15 +243,17 @@ input[type=submit] {
   .container {
     width: 100%;
   }
+
   #logo {
     width: 100%;
   }
+
   #masthead {
     width: 100%;
   }
+
   nav {
     width: 100%;
-
   }
 
   nav a {
@@ -270,39 +272,4 @@ input[type=submit] {
     max-width: 100%;
     float: left;
   }
-
-  }
-  @media only screen and (max-width: 768px) {
-      .container {
-        width: 100%;
-      }
-      #logo {
-        width: 100%;
-      }
-      #masthead {
-        width: 100%;
-      }
-      nav {
-        width: 100%;
-
-      }
-
-      nav a {
-        margin-left: 65px;
-      }
-
-      .main-section{
-        width: 100%;
-      }
-
-      .work {
-        width: 100%;
-      }
-
-      .sidebar {
-        max-width: 100%;
-        width: 650px;
-        float: left;
-        background-color: yellow;
-      }
-    }
+}
