@@ -159,6 +159,11 @@ h3,
 }
 
 /* portfolio page */
+#background{
+  background-image: url("../images/cityscape2.jpeg");
+  background-repeat:no-repeat;
+  background-position: center;
+}
 
 .work {
   position: relative;
@@ -201,6 +206,12 @@ h3,
 }
 
 /* contact page */
+
+#contact {
+  background-image: url("../images/iphonecontact.jpeg");
+  background-repeat:no-repeat;
+  background-position: center;
+}
 
 #contact-form ul {
   margin-bottom: 20px;
